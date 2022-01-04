@@ -1,6 +1,6 @@
 {
   "homepage": "http://john-harris-iii.github.io/react-potato",
-  "name": "photo-port",
+  "name": "react-potato",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
